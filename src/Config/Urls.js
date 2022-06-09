@@ -1,0 +1,1 @@
+export const CAST_LISTING_API = "https://breakingbadapi.com/api/characters"
